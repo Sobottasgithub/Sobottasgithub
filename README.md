@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Sobottasgithub
-- 👀 I’m interested in programming hard stuff.
-- 🌱 I’m currently learning Dart, databases and php
+- 👀 I’m interested in programming difficult stuff.
+- 🌱 I’m currently learning C, databases and php
 - 💞️ I’m looking to collaborate on with a great team
-- 📫 How to reach me? just star this file and i will reach you!
+- 📫 How to reach me? Email Me: **Psschulze904@gmail.com**
 
 <!---
 Sobottasgithub/Sobottasgithub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
