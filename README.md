@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Sobottasgithub
-- 👀 I’m interested in programming difficult stuff.
-- 🌱 I’m currently improving my python knowledge 
-- 💞️ I’m looking to collaborate on with a great team
-- 📫 How to reach me? Email Me: **Patrick.Schulze.ofp@gmail.com**
+# Unveiling My Journey 📓
+Hi, I’m Patrick!
+I am improving my knowledge in programming since ***2019***.
+<br>
+I've used my time to learn *python* <img src=/pyhton.png" width="16" height="16" />, "*full stack*" *web development* including *security*
 
-<!---
-Sobottasgithub/Sobottasgithub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+If you want to reach out to me → **Patrick.Schulze.ofp@gmail.com**
